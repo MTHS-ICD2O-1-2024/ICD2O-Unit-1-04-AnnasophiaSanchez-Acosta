@@ -2,10 +2,39 @@
 * Created on: Feb 2025
 * This file contains the CSS for index.html
 */
-
 body {
+  background-color: rgb(251, 193, 251);
+}
+
+h1 {
   background-color: violet;
   color: hsl(powderblue);
   padding: 40px;
+  text-align: center;
+}
+
+p {
+  background-color: pink;
+}
+
+ul {
+  color: rgb(89, 76, 186);
+}
+
+table {
+  border: solid thin;
+}
+
+th {
+  height: 2rem;
+  background: rgb(237, 111, 216);
+  border: 1px solid white;
+  text-align: left;
+}
+  
+td {
+  height: 2rem;
+  background: rgb(246, 197, 242);
+  border: 1px solid black;
   text-align: center;
 }
