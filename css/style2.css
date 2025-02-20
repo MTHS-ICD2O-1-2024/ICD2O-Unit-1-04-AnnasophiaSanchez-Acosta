@@ -22,7 +22,7 @@ ul {
 }
 
 table {
-  border: solid thin;
+  border: 1px solid black;
 }
 
 th {
