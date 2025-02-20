@@ -3,12 +3,12 @@
 * This file contains the CSS for index.html
 */
 body {
-  background-color: rgb(251 193 251);
+  background-color: rgb(251, 193, 251);
 }
 
 h1 {
   background-color: violet;
-  color: rgb(43 76 128);
+  color: rgb(43, 76, 128);
   padding: 40px;
   text-align: center;
 }
@@ -18,7 +18,7 @@ p {
 }
 
 ul {
-  color: rgb(89 76 186);
+  color: rgb(89, 76, 186);
 }
 
 table {
@@ -27,14 +27,14 @@ table {
 
 th {
   height: 2rem;
-  background: rgb(237 111 216);
-  border: 1px solid rgb(18 16 16);
+  background: rgb(237, 111, 216);
+  border: 1px solid rgb(18, 16, 16);
   text-align: left;
 }
 
 td {
   height: 2rem;
-  background: rgb(246 197 242);
+  background: rgb(246, 197, 242);
   border: 1px solid black;
   text-align: center;
 }
