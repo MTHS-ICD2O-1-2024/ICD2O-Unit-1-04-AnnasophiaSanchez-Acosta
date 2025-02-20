@@ -3,7 +3,7 @@
 * This file contains the CSS for index.html
 */
 body {
-  background-color: rgb(251, 193, 251);
+  background-color: rgb(251 193 251);
 }
 
 h1 {
@@ -27,14 +27,14 @@ table {
 
 th {
   height: 2rem;
-  background: rgb(237, 111, 216);
+  background: rgb(237 111 216);
   border: 1px solid white;
   text-align: left;
 }
   
 td {
   height: 2rem;
-  background: rgb(246, 197, 242);
+  background: rgb(246 197 242);
   border: 1px solid black;
   text-align: center;
 }
