@@ -8,7 +8,7 @@ body {
 
 h1 {
   background-color: violet;
-  color: rgb(43, 76, 128);
+  color: rgb(43 76 128);
   padding: 40px;
   text-align: center;
 }
@@ -18,7 +18,7 @@ p {
 }
 
 ul {
-  color: rgb(89, 76, 186);
+  color: rgb(89 76 186);
 }
 
 table {
@@ -28,7 +28,7 @@ table {
 th {
   height: 2rem;
   background: rgb(237 111 216);
-  border: 1px solid rgb(18, 16, 16);
+  border: 1px solid rgb(18 16 16);
   text-align: left;
 }
 
