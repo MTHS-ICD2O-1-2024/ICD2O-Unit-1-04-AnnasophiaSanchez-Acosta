@@ -9,4 +9,13 @@ body {
   padding: 40px;
   text-align: center;
 }
+h1 {
+  background-color: rgb(210, 189, 217);
+  color: hsl(239, 60%, 70%);
+  padding: 40px;
+  text-align: center;
+}
 
+p {
+  background-color: #fbd1f4;
+}
